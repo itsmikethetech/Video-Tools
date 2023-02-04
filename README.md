@@ -15,4 +15,4 @@ AVI, FLV, MKV, MOV, MP4, MPEG, WMV, 3GP and more.
 *   Run the application and choose "Transcode"
 *   MP4 files will be rendered into the /output/ folder.
 
-**This software uses code of FFmpeg licensed under the LGPLv2.1 and its source can be downloaded here.**
+**This software uses code of** [**FFmpeg**](http://ffmpeg.org/) **licensed under the** [**LGPLv2.1**](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html) **and its source can be downloaded** [**here**](http://ffmpeg.org/)**.**
